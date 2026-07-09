@@ -1,0 +1,53 @@
+state,county,fips,asthma,aqi
+CA,Solano,06095,10.1,40
+CA,Placer,06061,10.0,52
+CA,Kings,06031,9.7,58
+CA,Fresno,06019,9.8,64
+CA,Amador,06005,10.1,36
+CA,Santa Barbara,06083,9.7,45
+CA,Orange,06059,9.0,52
+CA,Tehama,06103,10.7,44
+CA,San Benito,06069,9.1,40
+CA,Yolo,06113,9.8,43
+CA,Madera,06039,10.4,52
+CA,Siskiyou,06093,11.2,43
+CA,Kern,06029,10.3,69
+CA,Sacramento,06067,10.2,51
+CA,Colusa,06011,9.8,55
+CA,Santa Clara,06085,7.9,43
+CA,Glenn,06021,10.1,41
+CA,San Francisco,06075,8.5,32
+CA,San Joaquin,06077,9.5,47
+CA,Contra Costa,06013,9.4,51
+CA,Mono,06051,9.9,24
+CA,Sutter,06101,10.0,49
+CA,Los Angeles,06037,9.0,67
+CA,Calaveras,06009,10.5,40
+CA,Stanislaus,06099,10.0,54
+CA,Alameda,06001,8.8,48
+CA,Riverside,06065,9.5,79
+CA,Santa Cruz,06087,9.8,36
+CA,Mariposa,06043,10.6,47
+CA,Monterey,06053,9.6,42
+CA,Tulare,06107,10.0,69
+CA,Humboldt,06023,11.0,32
+CA,San Diego,06073,8.9,67
+CA,San Luis Obispo,06079,10.0,47
+CA,Tuolumne,06109,10.5,43
+CA,Mendocino,06045,10.7,53
+CA,Del Norte,06015,10.8,32
+CA,Imperial,06025,9.2,61
+CA,Shasta,06089,10.9,45
+CA,Lake,06033,10.9,32
+CA,Plumas,06063,11.0,50
+CA,Sonoma,06097,9.8,33
+CA,Marin,06041,9.5,34
+CA,Butte,06007,10.5,50
+CA,Merced,06047,9.8,51
+CA,Trinity,06105,11.3,31
+CA,Ventura,06111,9.5,46
+CA,El Dorado,06017,9.9,44
+CA,Inyo,06027,10.4,61
+CA,San Mateo,06081,8.5,31
+CA,Nevada,06057,10.4,42
+CA,San Bernardino,06071,9.8,71
